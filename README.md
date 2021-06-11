@@ -4,13 +4,16 @@
 
 This project is a complete redesign of a retail portal, and is designed to modernize an existing site. It is a front end design created using the React library, and is focused mainly on client experience. Features implemented enable customers to search, browse, add to cart, and checkout.
 
-## Bagdes
-
-To be added.
-
 ## Visuals
 
-[This is a link to the mock-up.](https://xd.adobe.com/view/e600dc0f-454c-44e3-5075-7872d04189ff-9031/?fullscreen)
+### Product Main
+![image](https://user-images.githubusercontent.com/72178817/121736226-49c5cd00-cac5-11eb-9dd2-8ce0cffeef1b.png)
+### Related Products and Your Outfit
+![image](https://user-images.githubusercontent.com/72178817/121736291-5ea26080-cac5-11eb-94df-c8cd7525d286.png)
+### Questions and Answers
+![image](https://user-images.githubusercontent.com/72178817/121736321-67933200-cac5-11eb-8b56-dc36fc70013c.png)
+### Ratings & Reviews
+![image](https://user-images.githubusercontent.com/72178817/121736349-724dc700-cac5-11eb-8702-def71ed2289a.png)
 
 ## Installation
 
