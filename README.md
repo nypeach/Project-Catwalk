@@ -19,7 +19,8 @@ This project is a complete redesign of a retail portal, and is designed to moder
 ![image](https://user-images.githubusercontent.com/72178817/121737608-184e0100-cac7-11eb-9007-4c15e0476396.png)
 
 ### Ratings & Reviews
-![image](https://user-images.githubusercontent.com/72178817/121736349-724dc700-cac5-11eb-8702-def71ed2289a.png)
+![image](https://user-images.githubusercontent.com/72178817/121737704-33207580-cac7-11eb-9296-2aa701b8f608.png)
+![image](https://user-images.githubusercontent.com/72178817/121737845-695df500-cac7-11eb-9c17-ae1fd2414eb5.png)
 
 ## Installation
 
