@@ -47,10 +47,10 @@ Maintenance of the catalog and internal systems, and improvements to areas outsi
 Not open to contributions at this time.
 
 ## Authors
-Jodi Silverman 
-Jihang Li 
-Sung Kim 
-Joseph Haller 
+Jodi Silverman  
+Jihang Li  
+Sung Kim  
+Joseph Haller  
 
 ## License
 
