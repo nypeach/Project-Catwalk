@@ -46,9 +46,11 @@ Maintenance of the catalog and internal systems, and improvements to areas outsi
 
 Not open to contributions at this time.
 
-## Authors and acknowledgement
-
-A big thanks to Jodi Silverman, Jihang Li, Sung Kim, and Joseph Haller for contributing to this project!
+## Authors
+Jodi Silverman
+Jihang Li
+Sung Kim
+Joseph Haller
 
 ## License
 
