@@ -4,10 +4,11 @@
 
 This project is a complete redesign of a retail portal, and is designed to modernize an existing site. It is a front end design created using the React library, and is focused mainly on client experience. Features implemented enable customers to search, browse, add to cart, and checkout.
 
-## Visuals
+## Visuals vs. Actuals
 
 ### Product Main
 ![image](https://user-images.githubusercontent.com/72178817/121736738-f607b380-cac5-11eb-90c7-17a1d8d6f7ab.png)
+![image](https://user-images.githubusercontent.com/72178817/121736917-336c4100-cac6-11eb-81b4-19de3ec04f41.png)
 
 ### Related Products and Your Outfit
 ![image](https://user-images.githubusercontent.com/72178817/121736291-5ea26080-cac5-11eb-94df-c8cd7525d286.png)
