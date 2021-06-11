@@ -7,7 +7,7 @@ This project is a complete redesign of a retail portal, and is designed to moder
 ## Visuals
 
 ### Product Main
-![image](https://user-images.githubusercontent.com/72178817/121736226-49c5cd00-cac5-11eb-9dd2-8ce0cffeef1b.png)
+![image](https://user-images.githubusercontent.com/72178817/121736484-9f9a7500-cac5-11eb-9e26-d3db20cca689.png)
 ### Related Products and Your Outfit
 ![image](https://user-images.githubusercontent.com/72178817/121736291-5ea26080-cac5-11eb-94df-c8cd7525d286.png)
 ### Questions and Answers
